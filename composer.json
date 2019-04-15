@@ -1,0 +1,16 @@
+{
+    "name": "litao/my-first-composer",
+    "description": "常用帮助方法",
+    "authors": [
+        {
+            "name": "litao",
+            "email": "zrj5026605@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LT\\FirstPackage\\": "src/"
+        }
+    },
+    "require": {}
+}
